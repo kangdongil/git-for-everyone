@@ -1,0 +1,87 @@
+[33mcommit 597f3d92b0c83f46fa3bebd26247e024f698a2c9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:47:56 2020 +0900
+
+    Create README.md
+
+[33mcommit 86b0bbd89671f5233a359c064b81f328d41e1eaa[m
+Merge: 65d019e 564674d
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:39:50 2020 +0900
+
+    Merge branch 'happy' into main
+
+[33mcommit 564674d0622be4e19e1d5d4bced07269469ffe45[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:38:17 2020 +0900
+
+    Change Title
+
+[33mcommit 65d019e1f30abc351b819ce4376223e344ffab69[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:37:32 2020 +0900
+
+    Better Title
+
+[33mcommit 6bf5556d28bc7a784eb51e35a7400b95405097fe[m
+Merge: 9a7acb6 ecf3477
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:32:28 2020 +0900
+
+    Merge branch 'main' into happy-ending
+
+[33mcommit ecf3477d961423c43a07709f7b8b0ce3a2873154[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:31:42 2020 +0900
+
+    I'm a genius :)
+
+[33mcommit 9a7acb644de624b45b3e83a139d16c54f5de4207[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:30:27 2020 +0900
+
+    Happy ending finished
+    
+    Btw, I like this one more.
+
+[33mcommit 6ad592838aefe1ad1d12dfef83c409b0a36ce9d0[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:26:05 2020 +0900
+
+    Chapter One without ending
+
+[33mcommit f6b191c608daa67c18acfc238564e078d217709d[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:24:51 2020 +0900
+
+    Chapter One
+
+[33mcommit e0ebed51e139d9c0b667774f7411c31088a48986[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:17:20 2020 +0900
+
+    Created about.txt
+
+[33mcommit 584aa8e2aeefc69075f687b753192bf2d4250485[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:17:14 2020 +0900
+
+    Added a subtitle
+
+[33mcommit d238b184f19c0ad642fc3c19e6de8b826464dec2[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:12:15 2020 +0900
+
+    Added Title
+
+[33mcommit 7e1ce94b54518565d1db3aae8fcb20a807d524a2[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 18:11:08 2020 +0900
+
+    Create main.txt
+
+[33mcommit 5f832573d734482501ae13fa11bcc09a71038aed[m
+Author: kangdongil <67248006+kangdongil@users.noreply.github.com>
+Date:   Sat Nov 14 17:51:53 2020 +0900
+
+    Initial commit
